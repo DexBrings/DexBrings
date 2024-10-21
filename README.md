@@ -4,4 +4,4 @@
 
 Hier findet Ihr lauffähige Programme in unterschiedlichem Umfang, die ich im Rahmen von Kursen oder aus Büchern nachprogrammieren oder auch eigene Programmideen.
 
-Viel Spaß beim Umschauen, rutnerladen und ausprobieren.
+Viel Spaß beim Umschauen, herunterladen und ausprobieren.
